@@ -1,0 +1,92 @@
+
+._top {
+  background-color: #e7dfd5;
+  padding-top: 3rem;
+}
+.middle-container{
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #dad0d0;
+}
+
+.bottom-container{
+  background-color: #e8ded2;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.title{
+  position: relative;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.7rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #204051;
+}
+
+h2, h3{
+  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  margin: 10px auto 10px auto;
+  font-weight: normal;
+  color: #204051;
+}
+
+p{
+  color: #40514E;
+}
+
+hr{
+  margin: 3rem auto 3rem auto;
+  border-style: dotted none none none;
+  border-width: 0.5rem;
+  width: 5%;
+  color: #e8dcdc;
+}
+
+
+body{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.skill_photo{
+  width: 10rem;
+  float: left;
+  margin: 0 30px 0 0;
+}
+.skill_photo_right{
+  float: right;
+  margin-left: 30px;
+}
+
+.top-cloud{
+  width: 10%;
+  position: absolute;
+  right: 200px;
+  top: 200px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  width: 10%;
+  left: 200px;
+  bottom: 200px;
+}
+
+.mountain{
+  width: 50%;
+  position: relative;
+  top: 4px;
+}
+
+.skill-row {
+  margin: 1.5rem auto 1.5rem auto ;
+  width: 70%;
+  line-height: 2;
+  text-align: left;
+}
